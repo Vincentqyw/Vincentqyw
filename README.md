@@ -23,9 +23,9 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on SLAM.
 - 🌱 I’m currently learning SLAM and AI.
 - 💬 Ask me about depth estimation/light filed/SLAM etc.
+- 👯 I’m looking to collaborate on repo [Recent-Stars-2020](https://github.com/Vincentqyw/Recent-Stars-2020)
 - 📫 How to reach me: [@realcat](https://vincentqin.tech)
 - ⚡ Fun fact: I :heart: :cat:s
-<!-- - 👯 I’m looking to collaborate on ...-->
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- - 😄 Pronouns: ... -->
 
