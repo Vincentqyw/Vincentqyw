@@ -10,7 +10,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vincentqyw&repo=light-field-Processing&show_owner=false&theme=default)](https://github.com/Vincentqyw/light-field-Processing)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vincentqyw&repo=depth-from-defocus-and-correspondence&show_owner=false&theme=default)](https://github.com/Vincentqyw/depth-from-defocus-and-correspondence)
 
-博客主页 : [Realcat](https://vincentqin.tech)
+My Blog : [Realcat](https://vincentqin.tech)
 
 <!--
 **Vincentqyw/Vincentqyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
