@@ -31,6 +31,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [笔记：AdaLAM 超强外点滤除算法](https://vincentqin.tech/posts/adalam/)
 - [工具：使用vercel加速Hexo静态博客访问](https://vincentqin.tech/posts/speedup-gitpage/)
 - [笔记：ORB-SLAM3论文阅读](https://vincentqin.tech/posts/orb-slam3/)
 - [工具：解决Github挂图及龟速访问](https://vincentqin.tech/posts/manage-pc-hosts/)
