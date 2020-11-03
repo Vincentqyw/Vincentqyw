@@ -31,6 +31,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [笔记：三维重建系列 COLMAP: Structure-from-Motion Revisited](https://vincentqin.tech/posts/colmap/)
+- [笔记：CVPR 2020 视觉定位挑战赛冠军方案](https://vincentqin.tech/posts/cvpr-2020-localization/)
 - [笔记：GMS一种基于运动统计的快速鲁棒特征匹配过滤算法](https://vincentqin.tech/posts/gms-matching/)
 - [笔记：AdaLAM 超强外点滤除算法](https://vincentqin.tech/posts/adalam/)
 - [工具：使用vercel加速Hexo静态博客访问](https://vincentqin.tech/posts/speedup-gitpage/)
