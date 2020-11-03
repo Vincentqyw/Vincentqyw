@@ -31,8 +31,12 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [笔记：三维重建系列 COLMAP: Structure-from-Motion Revisited](https://vincentqin.tech/posts/colmap/)
+- [公号：深度血轮眼：识别《火影忍者》结印手势](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652165604&idx=1&sn=ec0fbf428cb174080bb6a47971a9fdaf&chksm=f0f72e0dc780a71b8279072e485c22a59987d0a391fa3bb57ac94edd26418e6f1d9f14aee221#rd)
+- [公号：CVPR 2020 修复你的老照片](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652164263&idx=1&sn=c6314f64cf2c19c2dbfdb02e5c6de2d1&chksm=f0f72b4ec780a258a85e1b789d291982fb9b7fc1691f3d487cb564ce6d1bb250dc308372d39f#rd)
+- [公号：CVPR 2020 SLAM挑战赛冠军方案](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652164892&idx=1&sn=0ac2c3e39b791310e8ce2f06f640b061&chksm=f0f728f5c780a1e37bc07c64c98fba99e741f60df706117884f37dd143bd44a4b3da81619f67#rd)
+- [公号：SkyAR 天空之城：实时替换天空](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652164890&idx=1&sn=168912e95d94bd3eeae1663d4b157362&chksm=f0f728f3c780a1e5bba6064b969715e5aca1d932d284811883d886bbc4a94b26479158a11fac#rd)
 - [笔记：CVPR 2020 视觉定位挑战赛冠军方案](https://vincentqin.tech/posts/cvpr-2020-localization/)
+- [笔记：三维重建系列 COLMAP: Structure-from-Motion Revisited](https://vincentqin.tech/posts/colmap/)
 - [笔记：GMS一种基于运动统计的快速鲁棒特征匹配过滤算法](https://vincentqin.tech/posts/gms-matching/)
 - [笔记：AdaLAM 超强外点滤除算法](https://vincentqin.tech/posts/adalam/)
 - [工具：使用vercel加速Hexo静态博客访问](https://vincentqin.tech/posts/speedup-gitpage/)
