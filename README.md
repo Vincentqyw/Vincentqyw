@@ -31,7 +31,10 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-
+- [公号：光场相机能否用于SLAM？](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652170551&idx=1&sn=1bd1eafe3cc9f5cdab93d2b326137916&chksm=f0f712dec7809bc80bce192564122a1d13d108d77af2ac11a36a8390b3ea819898f7647698c1&token=1390522587&lang=zh_CN#rd)
+- [公号：视觉重定位：一种直接图像对齐的视觉重定位方法LM-Reloc](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652169693&idx=1&sn=edf020ef3040b1a8650e7e66c2939c90&chksm=f0f71e34c78097223520334ca6cd91fd8f829490d64a646b7465b5b6e7b832d96275f91ae6ef&token=1390522587&lang=zh_CN#rd)
+- [公号：CES2021三星发布Jetbot 90 AI+激光导航扫地机器人](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652169596&idx=1&sn=625e49da1f00143c7bb3f741d1df678a&chksm=f0f71e95c7809783f26ee18b086206b8f6331df2d531caabfad664e0c21bc2ba9393c4e03d4f&token=1390522587&lang=zh_CN#rd)
+- [公号：祝各位同学元旦快乐！](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652169408&idx=1&sn=0cd91342c4814e157c3d4136fa212d97&chksm=f0f71f29c780963f529534dec7c9072dd7a8ced38aa70148fbcb79293f69c84571215fdc2c70&token=1390522587&lang=zh_CN#rd)
 - [公号：一周开源精选-20201227](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652168862&idx=1&sn=1e425d66d9e969f3a626e17f297d0968&chksm=f0f71977c780906169e7c04e81681fdd718a99db1d8aa146bfa4f1ae3baeb6774331e9204310&token=208229741&lang=zh_CN#rd)
 - [公号：一周开源精选-20201213](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652168629&idx=1&sn=e9d845d4371f0eb3f5d3da0cc3c161a5&chksm=f0f71a5cc780934af41f1d08fc9ef752a11198157b96b849da179e5131e9bc66cf62a6bb3c31#rd)
 - [公号：一周开源精选-20201127](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652167980&idx=1&sn=243308f7663ab531d671c41d5221d446&chksm=f0f724c5c780add3feebb308098ebe0b3125c7dcbaddb489961b70804d50427a3d79ccc662ef&token=208229741&lang=zh_CN#rd)
