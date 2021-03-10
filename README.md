@@ -24,7 +24,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I’m currently learning SLAM and AI.
 - 💬 Ask me about depth estimation/light filed/SLAM etc.
 - 👯 I’m looking to collaborate on repo [Recent-Stars-2021](https://github.com/Vincentqyw/Recent-Stars-2021)
-- 📫 How to reach me: [@realcat](https://vincentqin.tech)，【公众号：<a href="https://vincentqin.gitee.io/images/qrcode_realcat.jpg" target="_blank">计算机视觉SLAM</a>】
+- 📫 How to reach me: [@realcat](https://vincentqin.tech)，**【公众号：<a href="https://vincentqin.gitee.io/images/qrcode_realcat.jpg" target="_blank">计算机视觉SLAM</a>】**
 - ⚡ Fun fact: I :heart: :cat:s, I have a British Shorthair :cat2:
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- - 😄 Pronouns: ... -->
