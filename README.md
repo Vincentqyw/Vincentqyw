@@ -20,7 +20,7 @@ This is the place where I opensource stuff and break things :rofl:
 -->
 <!-- README-CARD-LIST:START -->
 
-- 🔭 I’m currently working on SLAM.
+- 🔭 I’m currently working on SFM, SLAM and Visual Localization.
 - 🌱 I’m currently learning SLAM and AI.
 - 💬 Ask me about depth estimation/light filed/SLAM etc.
 - 👯 I’m looking to collaborate on repo [Recent-Stars-2021](https://github.com/Vincentqyw/Recent-Stars-2021) 
