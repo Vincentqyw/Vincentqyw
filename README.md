@@ -20,11 +20,11 @@ This is the place where I opensource stuff and break things :rofl:
 -->
 <!-- README-CARD-LIST:START -->
 
-- 🔭 I’m currently working on SFM, SLAM and Visual Localization.
-- 🌱 I’m currently learning SLAM and AI.
-- 💬 Ask me about depth estimation/light filed/SLAM etc.
-- 👯 I’m looking to collaborate on repo [Recent-Stars-2022](https://github.com/Vincentqyw/Recent-Stars-2022) 
-- 📫 How to reach me: [@realcat](https://vincentqin.tech)，**【公众号：<a href="https://vincentqin.gitee.io/images/qrcode_realcat.jpg" target="_blank">计算机视觉SLAM</a>】**(ID: **a-realcat**)
+- 🔭 I’m currently working on Visual Localization, SFM and SLAM.
+- 🌱 I’m currently learning blockchain and cryptocurrency.
+- 💬 Ask me about keypoint detection/image matching/image retrieval/depth estimation/light filed/SLAM etc.
+- 👯 I’m looking to collaborate on repo [recent-stars-2022](https://github.com/Vincentqyw/Recent-Stars-2022) and [cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)
+- 📫 How to reach me: [@realcat](https://vincentqin.tech)，**【公众号：<a href="https://vincentqin.gitee.io/images/qrcode_realcat.jpg" target="_blank">计算机视觉SLAM</a>】**(ID: **a-realcat**), leave me a message [here](https://vincentqin.tech/guestbook/)
 - ⚡ Fun fact: I :heart: :cat:s, I have a British Shorthair :cat2:
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- - 😄 Pronouns: ... -->
