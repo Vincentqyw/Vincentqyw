@@ -21,15 +21,15 @@ This is the place where I opensource stuff and break things :rofl:
 <!-- README-CARD-LIST:START -->
 
 - 🔭 I’m currently working on Visual Localization, SFM and SLAM.
-- 🌱 I’m currently learning blockchain and cryptocurrency.
 - 💬 Ask me about keypoint detection/image matching/image retrieval/depth estimation/light filed/SLAM etc.
-- 👯 I’m looking to collaborate on repo [recent-stars-2022](https://github.com/Vincentqyw/Recent-Stars-2022) and [cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)
+- 👯 I’m looking to collaborate on repo [cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)
 - 📫 How to reach me: [Twitter@realcat](https://twitter.com/AlphaRealcat) or [Blog](https://vincentqin.tech), leave me a message [here](https://vincentqin.tech/guestbook/)
 - ⚡ Fun fact: I :heart: :cat:s, I have a British Shorthair :cat2:
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- - 😄 Pronouns: ... -->
+<!-- - 🌱 I’m currently learning blockchain and cryptocurrency. -->
 
-📕 **Latest Blog Posts**
+<!-- 📕 **Latest Blog Posts** -->
 <!-- BLOG-POST-LIST:START -->
 
 <!-- - [公号：ICRA 2021 | LVI-SAM: LIO-SAM 与 VINS-Mono 紧耦合系统](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652173251&idx=1&sn=d250e07247f45b015b8703ac8761e707&chksm=f0f7082ac780813cf9bb9e2cae86b4b00ad49f9650167cc5907b40044e66b515c9ca463fa5c2#rd)
