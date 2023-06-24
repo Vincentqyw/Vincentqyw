@@ -22,7 +22,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on Visual Localization, SFM and SLAM.
 - 💬 Ask me about keypoint detection/image matching/image retrieval/depth estimation/light filed/SLAM etc.
-- 👯 I’m looking to collaborate on repo [cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)
+- 👯 I’m looking to collaborate on repo [image-matching-webui](https://github.com/Vincentqyw/image-matching-webui)
 - 📫 How to reach me: [Twitter@realcat](https://twitter.com/AlphaRealcat) or [Blog](https://vincentqin.tech), leave me a message [here](https://vincentqin.tech/guestbook/)
 - ⚡ Fun fact: I :heart: :cat:s, I have a British Shorthair :cat2:
 <!-- - 🤔 I’m looking for help with ...-->
