@@ -4,7 +4,7 @@
 <!--**Vincentqyw/Vincentqyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
-[![Vincentqyw's github stats](https://github-readme-stats.vercel.app/api?username=Vincentqyw&count_private=true&show_icons=true&theme=default)](https://vincentqin.tech) 
+[![Vincentqyw's github stats](https://github-readme-stats.vercel.app/api?username=Vincentqyw&count_private=true&show_icons=true&theme=dark)](https://vincentqin.tech) 
 
 This is the place where I opensource stuff and break things :rofl:
 
