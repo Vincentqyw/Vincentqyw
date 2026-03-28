@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=gmberton&show_icons=true&include_all_commits=true
+          options: username=vincentqyw&show_icons=true&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit cards
