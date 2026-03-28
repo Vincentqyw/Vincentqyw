@@ -1,7 +1,7 @@
 
 ### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=vincentqyw" />
 
-[![Vincentqyw's github stats](https://github-readme-stats.vercel.app/api?username=Vincentqyw&count_private=true&show_icons=true&theme=dark)](https://vincentqin.tech) 
+![](./profile/stats.svg)
 
 This is the place where I opensource stuff and break things :rofl:
 
