@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Realcat's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 4619, Total Commits  : 28410, Total PRs: 93, Total Issues: 57, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 4622, Total Commits  : 28410, Total PRs: 93, Total Issues: 57, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 43.73659280599854;
+        stroke-dashoffset: 43.736016725523584;
       }
     }
   
